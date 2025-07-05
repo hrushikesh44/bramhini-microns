@@ -5,7 +5,7 @@ import Navbar from "@/components/navbar";
 import Footer from "@/components/footer";
 
 export const metadata: Metadata = {
-  title: "Bramhini Microns",
+  title: "Brahmani Microns",
   icons: {
     icon: "/favicon.png"
   }

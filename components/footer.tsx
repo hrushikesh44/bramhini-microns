@@ -7,14 +7,14 @@ export default function Footer(){
                 <div className=" md:flex justify-center">
                     <div className="  mt-5 text-center">
                         <p className="font-medium">Plant Address</p>
-                        <p>Bramhini Microns</p>
+                        <p>Brahmani Microns</p>
                         <p>Kishtapadu Village</p>
                         <p>Ananthapur District</p>
                         <p>Andhra Pradesh</p>
                     </div>
                     <div className="mt-5 md:ml-8 text-center">
                         <p className="font-medium">Office Address</p>
-                        <p>Bramhini Microns</p>
+                        <p>Brahmani Microns</p>
                         <p>Kishtapadu Village</p>
                         <p>Ananthapur District</p>
                         <p>Andhra Pradesh</p>
@@ -24,7 +24,7 @@ export default function Footer(){
                     <MailButton />
                 </div>
             </div><br/>
-            <p className="pb-10 text-center">©2025 Bramhini Microns. All rights are reserved.</p>
+            <p className="pb-10 text-center">©2025 Brahmani Microns. All rights are reserved.</p>
          </footer>
     )
 }

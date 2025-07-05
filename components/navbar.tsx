@@ -11,7 +11,7 @@ export default function Navbar(){
             <div className="flex justify-between">
                 <Link href={'/'} className="text-xl font-bold truncate flex">
                 <img src="/favicon.png" alt="" className="size-7 mr-3" />
-                Brahmini Microns{' '}
+                Brahmani Microns{' '}
                 </Link>
                 <span className="md:hidden " onClick={() => setIsOpen((prev) => !prev)}>{!isOpen &&  <Menu />}</span>
                 {isOpen &&  (
