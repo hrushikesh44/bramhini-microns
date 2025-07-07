@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div>
       <section className="min-h-screen w-fit flex justify-center items-center bg-[#fefffe]">
-      <div className="md:w-[60vw] lg:w-[40vw] h-full lg:ml-44 2xl:ml-60 ml-16 mr-10 md:ml-20 md:-mr-52 md:-mt-40 -mt-44 ">
+      <div className="md:w-[60vw] lg:w-[40vw] h-full lg:ml-60 2xl:ml-60 ml-16 mr-10 md:ml-20 md:-mr-32 md:-mt-40 -mt-44 ">
         <p className="md:text-5xl font-bold text-2xl text-nowrap md:text-wrap">Brahmani Microns</p>
         <p className="text-sm text-wrap font-medium text-neutral-500 mt-4">At Brahmani Microns, we specialize in small-scale mining operations that prioritize sustainability, community growth, and resource efficiency. Our mission is to extract natural resources with integrity—ensuring that each project benefits both the environment and the people around us.</p>
       </div>
