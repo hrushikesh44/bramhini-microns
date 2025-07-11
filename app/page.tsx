@@ -6,7 +6,7 @@ export default function Home() {
       <div className="h-screen flex items-center justify-center max-w-[80vw] lg:max-w-[68vw]">
         <div>
           <p className="md:text-5xl font-bold text-nowrap text-2xl">Brahmani Microns</p>
-          <p className="text-sm text-wrap font-medium text-neutral-600 mt-4">At Brahmani Microns, we specialize in small-scale mining operations that prioritize sustainability, community growth, and resource efficiency. Our mission is to extract natural resources with integrity—ensuring that each project benefits both the environment and the people around us.</p>
+          <p className="text-sm text-wrap font-medium text-neutral-600 mt-4">At Brahmani Microns, We specialize in small-scale mining operations that prioritize sustainability, community growth, and resource efficiency. Our mission is to extract natural resources with integrity—ensuring that each project benefits both the environment and the people around us.</p>
         </div>
         <Image src={'/hero2.jpeg'} width={500} height={400} alt="hero" className="hidden md:block" />
       </div>
